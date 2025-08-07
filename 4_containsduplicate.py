@@ -1,5 +1,4 @@
 class Solution:
-
     # brute force, time complexity: o(n^2) space complexity:o(1)
     def containsDuplicate(self, nums: list[int]) -> bool:
         for i in range(len(nums)):

@@ -1,5 +1,4 @@
 class Solution:
-
     # time complexity: O(nlogM) n:piles M:max(piles) space complexity:O(1)
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
         # n piles of bananas, i. pile has piles[i] bananas
