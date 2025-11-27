@@ -1,4 +1,5 @@
 import java.util.HashSet;
+import java.util.Set;
 
 public class LC002_ContainsDuplicate {
 
@@ -20,7 +21,7 @@ public class LC002_ContainsDuplicate {
     // Time complexity: O(n)
     // Space complexity: O(n)
     public boolean containsDuplicate(int[] nums) {
-        HashSet<Integer> checkList = new HashSet<>();
+        Set<Integer> checkList = new HashSet<>();
 
         for (int i = 0; i < nums.length; i++) {
 
