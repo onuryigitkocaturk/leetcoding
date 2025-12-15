@@ -1,4 +1,4 @@
-public class LC0013_MergeStringsAlternately {
+public class LC013_MergeStringsAlternately {
 
     // Time complexity: O(m+n)
     // Space complexity: O(m+n)
