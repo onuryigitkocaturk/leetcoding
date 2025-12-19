@@ -1,6 +1,6 @@
 import java.util.Set;
 
-public class LC0017_ReverseVowelsOfString {
+public class LC017_ReverseVowelsOfString {
 
     public String reverseVowels(String s) {
 
