@@ -1,4 +1,4 @@
-public class LC0018_ProductofArrayExceptSelf {
+public class LC018_ProductofArrayExceptSelf {
 
     // Time complexity: O(n)
     // Space complexity: O(1)
