@@ -2,6 +2,8 @@ import java.util.*;
 
 public class LC022_FindTheDifferenceOfTwoArrays {
 
+    // Time complexity: O(n + m)
+    // Space complexity: O(n + m)
     public List<List<Integer>> findDifference(int[] nums1, int[] nums2) {
 
         Set<Integer> s1 = new HashSet<>();
